@@ -1,4 +1,4 @@
-module github.com/b3log/gulu
+module github.com/zhaopengme/gulu
 
 go 1.12
 
